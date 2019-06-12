@@ -1,0 +1,61 @@
+.titleDiv {
+	font-size: 22px;
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.sortDiv {
+	float: right;
+	margin-right: 20px;
+}
+
+.sortLabel {
+	margin-right: 5px;
+}
+
+.toolbar {
+	width: 100%;
+	height: 40px;
+}
+
+.widgetContainer {
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.widgetCard {
+	margin: 5px;
+	width: 300px;
+	flex-grow: 1;
+}
+
+.revenueDiv {
+	display: flex;
+}
+
+.revenueDate {
+	text-align: right;
+	flex-grow: 2;
+}
+
+.widgetDescription {
+	margin-bottom: 10px;
+}
+
+.widgetDataDivs {
+	display: inline-block;
+}
+
+.widgetRevenueDiv {
+	margin-right: 10px;
+}
+
+.revenueDataLabel {
+	margin-right: 5px;
+}
+
+.card-header {
+	background-color: rgba(0, 0, 0, .01);
+}
