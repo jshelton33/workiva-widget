@@ -3,8 +3,7 @@
 ## To run this mini-app:
 1. npm i
 2. npm run start
-
-The application should open automatically on http://localhost:8080/.
+3. Open http://localhost:8080/ to view the application
 
 ## General Info:
 Page 1: A sortable view of the widgets. They can be sorted by name, revenue, and date. 
